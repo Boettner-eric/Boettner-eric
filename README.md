@@ -1,2 +1,0 @@
-# Boettner-eric
-init
