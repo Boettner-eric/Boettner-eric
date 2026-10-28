@@ -1,7 +1,7 @@
 # Eric Boettner
 
 <p align="center">
-  <img src="assets/keebs.webp" alt="My keyboard collection" width="100%">
+  <img src="assets/keebs.jpg" alt="My keyboard collection" width="100%">
 </p>
 
 Keyboard enthusiast and programmer with a love for automation and productivity tools.
